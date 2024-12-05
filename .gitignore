@@ -210,3 +210,4 @@ source_docs/
 ### Golang ###
 /vendor/
 /.vs
+/node_modules
